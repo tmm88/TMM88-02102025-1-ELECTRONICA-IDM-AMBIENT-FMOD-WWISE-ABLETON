@@ -1,0 +1,1 @@
+Get-ChildItem -Recurse -Include *.wav -ErrorAction SilentlyContinue | Remove-Item -Force -Verbose

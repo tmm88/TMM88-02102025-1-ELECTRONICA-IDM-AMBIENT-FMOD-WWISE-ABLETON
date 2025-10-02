@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{1c69e97e-258a-4aab-beb0-88c7ba85b5f3}">
+		<property name="assetPath">
+			<value>8-Audio 6 [2025-10-02 114651].wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>673.43285714285719</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{b3363fde-0337-4676-8818-17a8b5fe530f}</destination>
+		</relationship>
+	</object>
+</objects>
